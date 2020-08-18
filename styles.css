@@ -1,0 +1,49 @@
+.topnav {
+    background-color: rgb(87, 159, 207);
+    display:flex;
+    justify-content: flex-start;
+    padding: 10px 10px;
+    margin: auto;
+    font-family: 'Montserrat';
+    border: 10px white;
+}
+.topnav a {
+    float: flex;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    justify-content: space-evenly;
+}
+.topnav li {
+    display: inline-flex;
+    justify-content: space-between;
+    color: white;
+}
+.topnav h1 {
+    display: inline-flex;
+    color: white;
+    margin-left: 20px;
+}
+.topnav img {
+    display: flex;
+    float: left;
+    width: 75px;
+    height: 60px;
+    padding:10px;
+}
+.center-box {
+    height: 100px;
+    background: rgb(15, 15, 134);
+    justify-content: space-evenly;
+    padding: 28px;
+    margin: 10px auto;
+
+}
+.center-item {
+    height: 75px;
+    width: 75px;
+    background: rgb(214, 197, 174);
+    display: flex;
+    margin: auto;
+}
